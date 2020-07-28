@@ -25,7 +25,7 @@ export default function SignUp() {
       <div>Password</div>
       <input  placeholder="Enter Password.." type="password" ref={register}
       />
-    </div> 
+    </div>  
   
     <button>Login</button>
     <input type="submit"/>

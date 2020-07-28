@@ -14,7 +14,7 @@ export default function Login(){
           <input id="password" placeholder="Enter Password.." type="rassword"/>
         </div>
         <input type="submit" />
-        <button >Sign Up</button>
+        <button >Sign Up</button> 
       </div> 
       ) 
 }
